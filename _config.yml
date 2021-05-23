@@ -101,15 +101,14 @@ analytics:
 # Site Author
 author:
   name             : "임승현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  gravatar: 3ed74194586384752f59ea320f29fefe
+  avatar           : "/assets/images/avatar.png"
   bio              : "Welcome, This is my own place."
   location         : "Seoul, South Korea"
   email            : "lsmman07@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "lsmman07@gmail.com"
+      # url: "lsmman07@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://lsmman.github.io"
