@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "My diary"
+title                    : "Lim's diary"
 title_separator          : "-"
-subtitle                 : "Version 2.0"
+subtitle                 : # "Version 2.0"
 name                     : "lsmman"
 description              : "Be honestly"
 url                      : "https://lsmman.github.io/dev-diary" 
